@@ -2,4 +2,4 @@
 
 env: python 3.6.9
 
-just a simple nn perceptron code without importing any python libraries, try to understand how nueral works easily in the network.
+just a nn simple perceptron code without importing any python libraries, try to understand how nueral works easily in the network.
