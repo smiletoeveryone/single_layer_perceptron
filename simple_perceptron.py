@@ -21,7 +21,7 @@ class Perceptron(object):
 x = [1, 2, 3, 10, 20, -2, -10, -100, -5, -20]
 y = [1.0, 1.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0]
 
-model = Perceptron(0.01, 10)
+model = Perceptron()
 model.fit(x, y)
 
 test_x = [30, 40, -20, -60]
