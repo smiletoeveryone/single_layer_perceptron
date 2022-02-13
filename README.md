@@ -1,4 +1,4 @@
-# simple_perceptron
+# single_layer_perceptron
 
 env: python 3.6.9
 
